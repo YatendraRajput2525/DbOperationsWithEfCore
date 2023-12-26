@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zHp3bFjzuhkGxL/NXTjx6NXdA2dU8/f3Qxx/RfmTDESm+L094T6PuPT1p7g+pf8glLTHuyGx5kHLllBW71y0OA==",
+  "success": true,
+  "projectFilePath": "C:\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEfCore\\DbOperationsWithEfCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yatendra Pal Singh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Yatendra Pal Singh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Yatendra Pal Singh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yatendra Pal Singh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yatendra Pal Singh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yatendra Pal Singh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
